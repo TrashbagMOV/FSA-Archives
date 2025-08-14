@@ -18,3 +18,5 @@ associates:
 Equipment:
 - Item
 Further details:
+
+Battles:
