@@ -1,1 +1,7 @@
-# Hero Title
+Hero Title
+Real Name:
+Height:
+Weight:
+Age:
+Sex:
+
