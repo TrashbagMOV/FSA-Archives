@@ -51,4 +51,5 @@ Windswept, the newest member of the Elemental Guardians, is the only son of Davi
 He began his career in Alpeina, Michigan, training under his father, before relocating to Lansing in 2011, where he joined the Elemental Guardians as the Wind Guardian.
 
 Battles:
+
 Alpeina Michigan December 9, 2007
