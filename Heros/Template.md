@@ -1,4 +1,4 @@
-# Hero Title (main ailies)-Rank (F- to s+)
+# Hero Title (main Alias)-(Rank) (F- to s+)
 ---
 Real Name:
 
