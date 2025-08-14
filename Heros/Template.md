@@ -23,7 +23,7 @@ Weaknesses/Vulnerabilities:
 
 Details
 
-associates:
+Associations:
 
 - associate (associates relationship/Heros relationship)
 
