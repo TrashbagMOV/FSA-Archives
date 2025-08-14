@@ -47,8 +47,8 @@ Equipment:
 
 Further details:
 
-Windswept, the newest member of the Elemental Guardians, is the only son of David Rippe. A third-generation Human–Canitorian hybrid, he currently holds a B+ rank with the potential to reach S+ rank.
-He began his career in Alpeina, Michigan, training under his father, before relocating to Lansing in 2011, where he joined the Elemental Guardians as the Wind Guardian.
+Windswept, the newest member of the [Elemental Guardians](https://github.com/TrashbagMOV/FSA-Archives/blob/main/Teams/The%20Elemental%20Guardians.md), is the only son of David Rippe. A third-generation Human–Canitorian hybrid, he currently holds a B+ rank with the potential to reach S+ rank.
+He began his career in Alpeina, Michigan; training under his father, before relocating to Lansing in 2011, where he joined the Elemental Guardians as the Wind Guardian.
 
 Battles:
 
