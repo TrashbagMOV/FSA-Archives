@@ -1,7 +1,16 @@
-Hero Title
+Hero Title (main ailies)
 Real Name:
-Height:
-Weight:
-Age:
-Sex:
-
+Active: First battle-Last battle
+Ailieses:
+- Ailies
+Age
+Sex
+Height
+Weight
+Powers:
+- Power
+Details
+Weaknesses/Vulnerabilities:
+-Weakness
+Details
+Further details:
