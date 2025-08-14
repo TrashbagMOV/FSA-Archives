@@ -1,12 +1,12 @@
-Windswept - (B+) (File Unfinished)
+# Windswept - (B+) (File Unfinished)
+---
 Real Name: Henery Rippe
 Active: 2007-N/A
 Aliases:
 - Wind Boy (Deprecated)
 - Gust (Deprecated)
 - Wind Guardian
-17
-Male
+17 Male
 5'10
 220 LB
 Powers:
