@@ -10,7 +10,7 @@ Aliases:
 - Gust (Deprecated)
 - Wind Guardian
 
-17 Male
+17, Male
 
 5'10, 220 LB
 
