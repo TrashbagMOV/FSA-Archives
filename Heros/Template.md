@@ -1,22 +1,36 @@
-Hero Title (main ailies)-Rank (F- to s+)
+# Hero Title (main ailies)-Rank (F- to s+)
+---
 Real Name:
+
 Active: First battle-Last battle
-Ailieses:
-- Ailies
-Age
-Sex
-Height
-Weight
+
+Aliases:
+
+- Alias
+
+Age, Sex
+Height, Weight
+
 Powers:
+
 - Power
+
 Details
+
 Weaknesses/Vulnerabilities:
+
 -Weakness
+
 Details
+
 associates:
+
 - associate (associates relationship/Heros relationship)
+
 Equipment:
+
 - Item
+
 Further details:
 
 Battles:
