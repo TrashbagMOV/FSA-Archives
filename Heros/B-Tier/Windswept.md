@@ -33,7 +33,7 @@ Weaknesses/Vulnerabilities:
 
 Windswept is extremely emotional, and will often act without thinking with little required antagonization.
 
-associations:
+Associations:
 
 - The Phoenix (Father/Son)
 - Crisper (Team-leader/Teamate)
