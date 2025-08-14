@@ -39,7 +39,7 @@ Associations:
 - Crisper (Team-leader/Teamate)
 - Quake (Teamate/Teamate)
 - Splashdown (Teamate/Teamate)
-- The Elemental Guardians (Team/Team-member)
+- [The Elemental Guardians (Team/Team-member)](https://github.com/TrashbagMOV/FSA-Archives/blob/main/Teams/The%20Elemental%20Guardians.md)
 
 Equipment:
 
