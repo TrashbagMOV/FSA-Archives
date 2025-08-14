@@ -1,7 +1,9 @@
 # Windswept - (B+) (File Unfinished)
 ---
 Real Name: Henery Rippe
+
 Active: 2007-N/A
+
 Aliases:
 
 - Wind Boy (Deprecated)
