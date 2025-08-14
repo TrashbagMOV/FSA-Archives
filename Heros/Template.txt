@@ -13,4 +13,8 @@ Details
 Weaknesses/Vulnerabilities:
 -Weakness
 Details
+associates:
+- associate (associates relationship/Heros relationship)
+Equipment:
+- Item
 Further details:
